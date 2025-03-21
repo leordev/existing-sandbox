@@ -1,6 +1,4 @@
-# Disallow test functions with a return value (`square/no-test-return-value`)
-
-💼 This rule is enabled in the 🔥 `ember` [config](https://github.com/square/eslint-plugin-square/blob/master/README.md#configurations).
+# Disallow test functions with a return value (`leordev/no-test-return-value`)
 
 💡 This rule is manually fixable by [editor suggestions](https://eslint.org/docs/developer-guide/working-with-rules#providing-suggestions).
 

@@ -1,4 +1,4 @@
-# Disallow files with a path matching a specific regexp (`square/no-restricted-files`)
+# Disallow files with a path matching a specific regexp (`leordev/no-restricted-files`)
 
 <!-- end auto-generated rule header -->
 

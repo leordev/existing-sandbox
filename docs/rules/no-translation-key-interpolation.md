@@ -1,6 +1,4 @@
-# Disallow string interpolation in translation keys (`square/no-translation-key-interpolation`)
-
-💼 This rule is enabled in the 🔥 `ember` [config](https://github.com/square/eslint-plugin-square/blob/master/README.md#configurations).
+# Disallow string interpolation in translation keys (`leordev/no-translation-key-interpolation`)
 
 <!-- end auto-generated rule header -->
 

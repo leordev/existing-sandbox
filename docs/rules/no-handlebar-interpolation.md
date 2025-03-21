@@ -1,4 +1,4 @@
-# Disallow unsafe HTML in strings/hbs/translations (`square/no-handlebar-interpolation`)
+# Disallow unsafe HTML in strings/hbs/translations (`leordev/no-handlebar-interpolation`)
 
 <!-- end auto-generated rule header -->
 
