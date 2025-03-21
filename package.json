@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-square",
+  "name": "eslint-plugin-leordev",
   "version": "26.0.0",
   "description": "Linting plugin containing Square's custom lint rules and configuration for JavaScript and related technologies.",
   "keywords": [
