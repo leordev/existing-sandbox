@@ -1,20 +1,13 @@
+## [26.0.1](https://github.com/leordev/existing-sandbox/compare/v26.0.0...v26.0.1) (2025-03-22)
 
 
+### Bug Fixes
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* adjust package name ([b516554](https://github.com/leordev/existing-sandbox/commit/b516554d96e0a7fa3cd3375b560eaa00bd905726))
+* adjust the package name for testing releases ([153a633](https://github.com/leordev/existing-sandbox/commit/153a6338f17e1f8fda42bbf657d398e27a92a9c7))
+* bump tag ([bdd49f1](https://github.com/leordev/existing-sandbox/commit/bdd49f15620955bda89f9381824e8692c6eb54dc))
+* **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
+* **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
 ## v26.0.0 (2023-10-20)
 
