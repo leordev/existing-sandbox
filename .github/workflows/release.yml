@@ -19,4 +19,6 @@ jobs:
           node-version: 20
           npm-token: ${{ secrets.NPM_TOKEN }}
           package-manager: yarn
-          prepare-cmds: 'yarn install --frozen-lockfile && yarn lint && yarn build'
+          prepare-cmds: |
+            yarn install --frozen-lockfile
+            yarn lint
