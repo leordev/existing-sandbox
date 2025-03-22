@@ -1,4 +1,4 @@
-# Enforce using `await` with calls to specified functions (`leordev/require-await-function`)
+# Enforce using `await` with calls to specified functions (`@leordev/square/require-await-function`)
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 

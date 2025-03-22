@@ -1,4 +1,4 @@
-# Disallow usage of `assert.ok(find(...))` as it will always pass (`leordev/no-assert-ok-find`)
+# Disallow usage of `assert.ok(find(...))` as it will always pass (`@leordev/square/no-assert-ok-find`)
 
 💡 This rule is manually fixable by [editor suggestions](https://eslint.org/docs/developer-guide/working-with-rules#providing-suggestions).
 

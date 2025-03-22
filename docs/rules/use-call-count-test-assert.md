@@ -1,4 +1,4 @@
-# Enforce using `assert.equal(...callCount, ...);` instead of `assert.ok(...calledOnce);` (`leordev/use-call-count-test-assert`)
+# Enforce using `assert.equal(...callCount, ...);` instead of `assert.ok(...calledOnce);` (`@leordev/square/use-call-count-test-assert`)
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 

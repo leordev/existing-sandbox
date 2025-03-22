@@ -1,4 +1,4 @@
-# Disallow string interpolation in translation keys (`leordev/no-translation-key-interpolation`)
+# Disallow string interpolation in translation keys (`@leordev/square/no-translation-key-interpolation`)
 
 <!-- end auto-generated rule header -->
 

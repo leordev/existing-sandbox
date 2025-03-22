@@ -1,4 +1,4 @@
-# Disallow files without a corresponding test file (`leordev/no-missing-tests`)
+# Disallow files without a corresponding test file (`@leordev/square/no-missing-tests`)
 
 <!-- end auto-generated rule header -->
 

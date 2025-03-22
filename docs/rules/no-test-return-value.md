@@ -1,4 +1,4 @@
-# Disallow test functions with a return value (`leordev/no-test-return-value`)
+# Disallow test functions with a return value (`@leordev/square/no-test-return-value`)
 
 💡 This rule is manually fixable by [editor suggestions](https://eslint.org/docs/developer-guide/working-with-rules#providing-suggestions).
 
