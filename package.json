@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/square/eslint-plugin-square.git"
+    "url": "https://github.com/leordev/existing-sandbox"
   },
   "license": "Apache-2.0",
   "exports": "./lib/index.js",
