@@ -9,6 +9,13 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.0.5](https://github.com/leordev/existing-sandbox/compare/v26.0.4...v26.0.5) (2025-04-03)
+
+
+### Bug Fixes
+
+* Update package.json to set the correct repo ([f72e4aa](https://github.com/leordev/existing-sandbox/commit/f72e4aa1cf83196e71726b78bc7eb86d1503f4a9))
+
 ## [26.0.4](https://github.com/leordev/existing-sandbox/compare/v26.0.3...v26.0.4) (2025-04-03)
 
 
