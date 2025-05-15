@@ -15,5 +15,5 @@ jobs:
       pull-requests: read
     steps:
       - uses: leordev/gha-sandbox/releaser-linter@main
-        env:
+        with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
