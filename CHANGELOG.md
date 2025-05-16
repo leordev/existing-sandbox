@@ -9,6 +9,13 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.0.7](https://github.com/leordev/existing-sandbox/compare/v26.0.6...v26.0.7) (2025-05-16)
+
+
+### Bug Fixes
+
+* yarn provenance ([be038f3](https://github.com/leordev/existing-sandbox/commit/be038f3d4f7e3b7e991be7cd6b90b27334c8ca9b))
+
 ## [26.0.6](https://github.com/leordev/existing-sandbox/compare/v26.0.5...v26.0.6) (2025-05-16)
 
 
