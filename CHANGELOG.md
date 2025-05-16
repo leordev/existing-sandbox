@@ -9,6 +9,16 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.0.6](https://github.com/leordev/existing-sandbox/compare/v26.0.5...v26.0.6) (2025-05-16)
+
+
+### Bug Fixes
+
+* print ember for troubleshooting stuff ([162aea5](https://github.com/leordev/existing-sandbox/commit/162aea53359448729d21114e643e5ebb1b2853f0))
+* rollback testing stuff ([15be26d](https://github.com/leordev/existing-sandbox/commit/15be26d45b3033fb4228432d786c50efaeaea99c))
+* Update get-parent-function-node.js ([#16](https://github.com/leordev/existing-sandbox/issues/16)) ([2420311](https://github.com/leordev/existing-sandbox/commit/242031197ee8d4afec8afd00400e17067ca579ee))
+* Update no-missing-tests.js ([493a2a7](https://github.com/leordev/existing-sandbox/commit/493a2a756b3836a781dc89992d96499d0c5eece8))
+
 ## [26.0.5](https://github.com/leordev/existing-sandbox/compare/v26.0.4...v26.0.5) (2025-04-03)
 
 
