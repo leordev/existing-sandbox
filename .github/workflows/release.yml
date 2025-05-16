@@ -5,6 +5,12 @@ on:
     branches:
       - main
   workflow_dispatch: # for manual release fixes
+    inputs:
+      retry-publish:
+        description: "Retry publishing"
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -21,6 +27,7 @@ jobs:
           node-version: 20
           npm-token: ${{ secrets.NPM_TOKEN }}
           package-manager: yarn
+          retry-publish: ${{ inputs.retry-publish }}
           prepare-cmds: |
             yarn install --frozen-lockfile
             yarn lint
