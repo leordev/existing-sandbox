@@ -9,6 +9,13 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.1.0](https://github.com/leordev/existing-sandbox/compare/v26.0.11...v26.1.0) (2025-05-19)
+
+
+### Features
+
+* disable ember attrs ([#26](https://github.com/leordev/existing-sandbox/issues/26)) ([7312b9d](https://github.com/leordev/existing-sandbox/commit/7312b9dd8c9d2dc1848b5af82350ec1ae48c4111))
+
 ## [26.0.11](https://github.com/leordev/existing-sandbox/compare/v26.0.10...v26.0.11) (2025-05-19)
 
 
