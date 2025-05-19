@@ -9,6 +9,13 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.1.1](https://github.com/leordev/existing-sandbox/compare/v26.1.0...v26.1.1) (2025-05-19)
+
+
+### Bug Fixes
+
+* update to block ospo action ([a3a0846](https://github.com/leordev/existing-sandbox/commit/a3a0846c12512a761ffd8b6b089e1049b2babbbd))
+
 ## [26.1.0](https://github.com/leordev/existing-sandbox/compare/v26.0.11...v26.1.0) (2025-05-19)
 
 
