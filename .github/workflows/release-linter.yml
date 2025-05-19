@@ -14,6 +14,6 @@ jobs:
     permissions:
       pull-requests: read
     steps:
-      - uses: leordev/gha-sandbox/releaser-linter@main
+      - uses: block/ospo/actions/releaser-linter@leordev/releaser
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
