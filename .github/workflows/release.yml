@@ -25,6 +25,8 @@ jobs:
         with:
           release-type: node
           node-version: 20
+          block-releaser-app-id: ${{ secrets.BLOCK_RELEASER_APP_ID }}
+          block-releaser-private-key: ${{ secrets.BLOCK_RELEASER_APP_PRIVATE_KEY }}
           npm-token: ${{ secrets.NPM_TOKEN }}
           package-manager: yarn
           retry-publish: ${{ inputs.retry-publish }}
