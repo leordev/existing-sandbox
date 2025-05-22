@@ -9,6 +9,16 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.1.3](https://github.com/leordev/existing-sandbox/compare/v26.1.2...v26.1.3) (2025-05-22)
+
+
+### Bug Fixes
+
+* **deps:** bump deps to cut a new release ([77c4e8f](https://github.com/leordev/existing-sandbox/commit/77c4e8f68ba41e4917730f8d4ed45420580f51fc))
+* test ([5a33e6a](https://github.com/leordev/existing-sandbox/commit/5a33e6ac22f60a1c02f7604a39aa40080ecbf006))
+* test automation ([cb98c14](https://github.com/leordev/existing-sandbox/commit/cb98c14a618cc0308f220f4321c846af13c42fc4))
+* test releaser app ([5067b52](https://github.com/leordev/existing-sandbox/commit/5067b525c6fba5179dd304ede4375b42f7a7bc9b))
+
 ## [26.1.2](https://github.com/leordev/existing-sandbox/compare/v26.1.1...v26.1.2) (2025-05-20)
 
 
