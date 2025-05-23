@@ -9,6 +9,14 @@
 * **ci:** prep release ([01bdda9](https://github.com/leordev/existing-sandbox/commit/01bdda94ae768577fe79965f573c33aa2b649ca6))
 * **ci:** use releaser ([693de44](https://github.com/leordev/existing-sandbox/commit/693de44e66a028b261e10bb96dbbbed4adbf8487))
 
+## [26.1.4](https://github.com/leordev/existing-sandbox/compare/v26.1.3...v26.1.4) (2025-05-23)
+
+
+### Bug Fixes
+
+* test releaser inputs ([1c7a1ab](https://github.com/leordev/existing-sandbox/commit/1c7a1aba081e291df5e0d011ee3977782011e8b6))
+* test releaser inputs 2 ([1530e7d](https://github.com/leordev/existing-sandbox/commit/1530e7d45e8f567ad826cc68e5937c10c47d247c))
+
 ## [26.1.3](https://github.com/leordev/existing-sandbox/compare/v26.1.2...v26.1.3) (2025-05-22)
 
 
