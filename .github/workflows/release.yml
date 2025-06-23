@@ -21,7 +21,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: leordev/gha-sandbox/releaser@main
+      - uses:  block/ospo/actions/releaser@leordev/ospo-releaser-app
         with:
           release-type: node
           node-version: 20
